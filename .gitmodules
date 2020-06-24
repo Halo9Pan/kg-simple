@@ -1,3 +1,6 @@
 [submodule "digit-recognizer"]
 	path = digit-recognizer
 	url = git@gist.github.com:45ea29fc163a3577c3587f22acf09525.git
+[submodule "house-prices-advanced-regression-techniques"]
+	path = house-prices-advanced-regression-techniques
+	url = git@gist.github.com:61bf6aaa43f8e49cea4e8a7889b18b9a.git
