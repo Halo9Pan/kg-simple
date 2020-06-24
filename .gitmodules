@@ -1,0 +1,3 @@
+[submodule "digit-recognizer"]
+	path = digit-recognizer
+	url = git@gist.github.com:45ea29fc163a3577c3587f22acf09525.git
