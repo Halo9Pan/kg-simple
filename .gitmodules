@@ -4,3 +4,6 @@
 [submodule "house-prices-advanced-regression-techniques"]
 	path = house-prices-advanced-regression-techniques
 	url = git@gist.github.com:61bf6aaa43f8e49cea4e8a7889b18b9a.git
+[submodule "titanic"]
+	path = titanic
+	url = git@gist.github.com:3cc49f0a760a2c9f3f09d26b5405a758.git
