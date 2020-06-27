@@ -10,3 +10,6 @@
 [submodule "nlp-getting-started"]
 	path = nlp-getting-started
 	url = git@gist.github.com:28e18e569d237a3771df4bb4adcba8a1.git
+[submodule "connectx"]
+	path = connectx
+	url = git@gist.github.com:50da2ceb2cec6e867d055993352d1dd7.git
