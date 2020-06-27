@@ -7,3 +7,6 @@
 [submodule "titanic"]
 	path = titanic
 	url = git@gist.github.com:3cc49f0a760a2c9f3f09d26b5405a758.git
+[submodule "nlp-getting-started"]
+	path = nlp-getting-started
+	url = git@gist.github.com:28e18e569d237a3771df4bb4adcba8a1.git
