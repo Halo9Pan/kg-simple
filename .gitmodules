@@ -13,3 +13,6 @@
 [submodule "connectx"]
 	path = connectx
 	url = git@gist.github.com:50da2ceb2cec6e867d055993352d1dd7.git
+[submodule "store-sales-time-series-forecasting"]
+	path = store-sales-time-series-forecasting
+	url = git@gist.github.com:e450bc28458ac2e2b125ffa3f0a17760.git
